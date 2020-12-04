@@ -1,0 +1,12 @@
+C:\Users\ericl\ElevenFiftyProjects\DevTeamRepo\bin\Debug\netstandard2.0\DevTeamRepo.deps.json
+C:\Users\ericl\ElevenFiftyProjects\DevTeamRepo\bin\Debug\netstandard2.0\DevTeamRepo.dll
+C:\Users\ericl\ElevenFiftyProjects\DevTeamRepo\bin\Debug\netstandard2.0\DevTeamRepo.pdb
+C:\Users\ericl\ElevenFiftyProjects\DevTeamRepo\bin\Debug\netstandard2.0\DeveloperRepo.dll
+C:\Users\ericl\ElevenFiftyProjects\DevTeamRepo\bin\Debug\netstandard2.0\DeveloperRepo.pdb
+C:\Users\ericl\ElevenFiftyProjects\DevTeamRepo\obj\Debug\netstandard2.0\DevTeamRepo.csprojAssemblyReference.cache
+C:\Users\ericl\ElevenFiftyProjects\DevTeamRepo\obj\Debug\netstandard2.0\DevTeamRepo.AssemblyInfoInputs.cache
+C:\Users\ericl\ElevenFiftyProjects\DevTeamRepo\obj\Debug\netstandard2.0\DevTeamRepo.AssemblyInfo.cs
+C:\Users\ericl\ElevenFiftyProjects\DevTeamRepo\obj\Debug\netstandard2.0\DevTeamRepo.csproj.CoreCompileInputs.cache
+C:\Users\ericl\ElevenFiftyProjects\DevTeamRepo\obj\Debug\netstandard2.0\DevTeamRepo.csproj.CopyComplete
+C:\Users\ericl\ElevenFiftyProjects\DevTeamRepo\obj\Debug\netstandard2.0\DevTeamRepo.dll
+C:\Users\ericl\ElevenFiftyProjects\DevTeamRepo\obj\Debug\netstandard2.0\DevTeamRepo.pdb
