@@ -15,10 +15,14 @@ namespace DevTeamRepo
             _listOfDevTeam.Add(team);
 
         }
+        public void RemoveDeveloperFromTeam(Developer programmer, DevTeam team)
+        {
+            team.ListOfDevelopers.Remove(programmer);
+        }
 
         public void AddDeveloperToTeam(Developer programmer, DevTeam team)
         {
-            team.ListOfDevelopers.lis .Add(programmer);
+            team.ListOfDevelopers.Add(programmer);
         }
 
         //Read
